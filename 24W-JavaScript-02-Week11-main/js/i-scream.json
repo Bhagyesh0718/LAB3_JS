@@ -4,7 +4,7 @@
     "established": 2024,
     "active": true,
     "topFlavors": [{
-        "name": "Chocolate Mint",
+        "name": "Chocolate Mint",       
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Pepprmint sprinkle", "Vanilla Base"],
@@ -15,7 +15,7 @@
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango chunks", "Vanilla Base"],
         "image": "https://github.com/Bhagyesh0718/LAB4_JS/blob/main/24W-JavaScript-02-Week11-main/images/chocolate-mint.svg"
-    }, {
+    }, {    
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "milkshake-ice-cream",
@@ -27,14 +27,14 @@
         "calories": 180,
         "type": "ice-cream",
         "ingredients": ["Vanilla Bean Extract", "Sugar", "Cream"],
-        "image": "https://bhagyesh0718.github.io/LAB3_JS/24W-JavaScript-02-Week11-main/images/ice-cream-xtra1.svg"
+        "image": "https://github.com/Bhagyesh0718/LAB4_JS/blob/main/24W-JavaScript-02-Week11-main/images/chocolate-mint.svg"
       },
       {
         "name": "Cookies and Cream",
         "calories": 280,
         "type": "ice-cream",
         "ingredients": ["Chocolate Cookie Crumbs", "Cream", "Vanilla Base"],
-        "image": "https://bhagyesh0718.github.io/LAB3_JS/24W-JavaScript-02-Week11-main/images/ice-cream-xtra2.svg"
+        "image": "https://github.com/Bhagyesh0718/LAB4_JS/blob/main/24W-JavaScript-02-Week11-main/images/chocolate-mint.svg"
       }
 
 ]
